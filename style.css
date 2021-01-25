@@ -1,0 +1,141 @@
+body {
+    text-align: center;
+    background-color: dodgerblue;
+}
+
+h1 {
+    font-weight: bold;
+    font-family: "Patua One", bold;
+    font-size: 30px;
+}
+
+#YouWish {
+    font-family: "Yusei Magic", bold;
+}
+
+img {
+    border-radius: 80%;
+}
+
+p {
+    font-family: system-ui;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.menu {
+    list-style: none;
+    font-family: system-ui;
+    position: sticky;
+    bottom: 10px;
+    right: 30px;
+    z-index: 10;
+    cursor: pointer;
+    border-bottom-width: 3px;
+    border-bottom-color: darkred;
+    margin-top: 40px;
+}
+
+.links {
+    position: sticky;
+    float: right;
+    color: blueviolet;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-top: 5px;
+    font-family: monospace;
+    font-size: 20px;
+    transition: 0.3s;
+    border-bottom-width: 3px;
+    border-bottom-color: darkred;
+    border-bottom-style: solid;
+}
+
+.links:hover {
+    background-color: darkred;
+    color: chartreuse;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-size: 23px;
+}
+
+#WingardiumLeviosa {
+    margin-top: 50px;
+    padding: 50px;
+    color: blanchedalmond;
+    z-index: 8px;
+}
+
+#ScaredPottah {
+    padding: 50px;
+    text-align: center;
+    font-size: 42px;
+    background: radial-gradient(circle, lightcoral, crimson);
+}
+
+a {
+    color: darkgreen;
+}
+
+a:hover {
+    color: crimson;
+}
+
+#YouWish {
+    background: radial-gradient(circle, lightyellow, orange);
+}
+
+#Malfoy {
+    background: radial-gradient(circle, skyblue, blue);
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#lol {
+    font-family: monospace;
+    font-size: 20px;
+    color: chartreuse;
+    text-decoration: none;
+}
+
+.line {
+    height: 5px;
+    width: 100px;
+}
+
+#dad {
+    transition: transform .2s;
+    border: 10px solid #AAAAAA;
+    border-radius: 30%;
+}
+
+#dad:hover {
+    transform: scale(0.9);
+}
+
+#Kamehameha {
+    background: radial-gradient(circle, #d99f55, #ad6810);
+}
+
+#Dobby {
+    background: radial-gradient(circle, #6c5fde, #2d1cbd);
+}
+
+#clickme {
+    color: navajowhite;
+}
+
+#clickme:hover {
+    color: black;
+}
+
+#a {
+    color: black;
+    font-size: 20px;
+}
+
+#a:hover {
+    color: chartreuse;
+}
